@@ -4,4 +4,9 @@
     background-color: salmon;
     overflow: hidden;
   }
+
+  .clock {
+    width: 300px;
+    height: 300px;
+  }
 }
