@@ -1,14 +1,6 @@
 @media only screen and (max-width: 500px) {
   body {
-    /* background: none;
-    background-color: salmon; */
-    overflow: hidden;
+    background: none;
+    background-color: yellow; 
 
-    background: linear-gradient(
-      to bottom,
-      rgba(65, 19, 19, 0.745),
-      salmon,
-      rgba(65, 19, 19, 0.745)
-    );
-  }
 }
