@@ -155,16 +155,3 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-@media screen (max-width: 500px) {
-  body {
-    background: linear-gradient(
-      to right,
-      rgb(65, 19, 19, 0.2),
-      salmon,
-      salmon,
-      salmon,
-      rgb(65, 19, 19, 0.2)
-    );
-  }
-}
